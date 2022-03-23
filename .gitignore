@@ -1,0 +1,8 @@
+dist
+hoop.egg-info
+.vagrant
+*.pyc
+.DS_Store
+.eggs
+.vscode
+venv
